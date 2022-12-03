@@ -6,7 +6,7 @@
 
 ---
 
-##### Realizarea unei aplicatii Web care sa permita acordarea de feedback continuu unei activitati, cu back-end cu interfata REST, care acceseaza date stocate intr-o baza relationala pe baza unui API de persistenta si date expuse de un serviciu extern si frontend SPA realizat cu un framework bazat pe componente (React.js).
+##### Realizarea unei aplicatii Web care sa permita acordarea de feedback continuu unei activitati, cu back-end cu interfata REST, care acceseaza date stocate intr-o baza relationala pe baza unui API de persistenta si date expuse de un serviciu extern si front-end SPA realizat cu un framework bazat pe componente (React.js).
 
 &nbsp;
 
